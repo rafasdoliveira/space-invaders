@@ -1,12 +1,13 @@
 # SPACE-INVADERS
 Trabalho Final - Raciocínio Lógico e Algorítmico 
 ## 
-1. Jogos
+1) Jogos
 Os jogos que podem ser escolhidos pelas equipes são:
 • Space Invaders
 • Snake
 • Tetris
-2. Entregas
+
+2) Entregas
 As entregas previstas para o trabalho representam melhorias no jogo que deverão ser realizadas pela
 equipe. Essas melhorias estão organizadas a seguir em conjuntos:
 Características Visuais
@@ -46,7 +47,8 @@ pontuações mais altas e as iniciais dos respectivos jogadores
 pela aplicação usando persistência de dados
 • Para classificar o ranking, deverá ser usado obrigatoriamente um dos algoritmos de 
 ordenação vistos em sala de aula
-3. Critério de avaliação do trabalho
+
+3) Critério de avaliação do trabalho
 Na avaliação do trabalho serão consideradas a execução correta das funcionalidades do programa e 
 a conformidade do código fonte ao conteúdo abordado na disciplina. O trabalho é em equipe mas as
 notas serão individuais com base na participação dos alunos durante a apresentação do trabalho e a 
