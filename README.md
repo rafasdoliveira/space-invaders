@@ -58,7 +58,8 @@ previstas:
 • Características visuais (2 pontos)
 • Jogabilidade (2 pontos)
 • Recursos avançados (3 pontos)
-4. Estratégia de condução do trabalho
+
+4) Estratégia de condução do trabalho
 • As atividades da equipe para realização do trabalho deverão ser dividido de maneira 
 uniforme entre os membros da equipe
 • Dúvidas acerca dos requisitos do trabalho deverão ser esclarecidas com o professor
@@ -71,7 +72,8 @@ vez, serão arguidos pelo professor sobre o código fonte
 Qualquer tentativa de cópia do trabalho de outro aluno ou da Internet, ou qualquer outra 
 tentativa de fraudar o trabalho, incluindo cópia de trechos do código fonte, resultará em 
 aplicação de nota ZERO
-5. Premissas e restrições para o trabalho
+
+5) Premissas e restrições para o trabalho
 Premissas
 • Será fornecido aos alunos o código fonte necessário para a execução do trabalho
 • Os alunos deverão ter lido e realizado as atividades do livro Lógica de Programação: Crie 
